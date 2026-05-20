@@ -1,0 +1,11 @@
+system_id,system_name,system_type,business_criticality
+1,Active Directory,Identity,Critical
+2,VPN Gateway,Network,Critical
+3,Exchange Email,Email,High
+4,WiFi Controller,Network,High
+5,ERP System,Business Application,Critical
+6,CRM Platform,Business Application,High
+7,File Server,Storage,Medium
+8,Print Server,Infrastructure,Low
+9,Endpoint Security,Security,Critical
+10,Cloud Storage,Cloud,Medium

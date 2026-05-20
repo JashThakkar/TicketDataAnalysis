@@ -1,0 +1,5 @@
+sla_id,priority,response_target_hours,resolution_target_hours
+1,Critical,1,4
+2,High,2,8
+3,Medium,4,24
+4,Low,8,72

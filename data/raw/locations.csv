@@ -1,0 +1,6 @@
+location_id,location_name,city,state,region
+1,Headquarters,Atlanta,GA,Southeast
+2,Remote - East,Charlotte,NC,Southeast
+3,Remote - Central,Dallas,TX,Central
+4,Remote - West,Phoenix,AZ,West
+5,Branch Office,Nashville,TN,Southeast
