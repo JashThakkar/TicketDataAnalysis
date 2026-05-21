@@ -27,27 +27,6 @@ Python synthetic data generation
 → Excel operational report
 → Power BI dashboard
 
-## Project Structure
-
-it-helpdesk-analytics/
-├── data/
-│   ├── raw/
-│   └── exports/
-├── scripts/
-│   ├── generate_data.py
-│   ├── load_to_postgres.py
-│   ├── test_connection.py
-│   └── export_reports.py
-├── sql/
-│   ├── 01_create_tables.sql
-│   ├── 02_indexes_constraints.sql
-│   ├── 03_analysis_queries.sql
-│   └── 04_views.sql
-├── powerbi/
-|     └── Bi.pbix
-├── requirements.txt
-└── README.md
-
 ## Business Problem
 
 IT helpdesk teams need visibility into ticket volume, SLA compliance, agent workload, backlog aging, and business impact.
